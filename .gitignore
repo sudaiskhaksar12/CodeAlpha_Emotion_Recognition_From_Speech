@@ -1,0 +1,9 @@
+﻿.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+Audio_Speech_Actors_01-24_16k/
+data/
+results/*.npy
+results/*.npz

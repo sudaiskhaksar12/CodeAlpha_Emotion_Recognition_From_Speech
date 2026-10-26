@@ -1,0 +1,17 @@
+CNN-LSTM Speech Emotion Recognition
+Test Accuracy: 36.00%
+
+              precision    recall  f1-score   support
+
+       angry     0.2857    0.2000    0.2353        40
+        calm     0.4571    0.4000    0.4267        40
+     disgust     0.4878    0.5000    0.4938        40
+     fearful     0.3750    0.3750    0.3750        40
+       happy     0.4231    0.2750    0.3333        40
+     neutral     0.2353    1.0000    0.3810        20
+         sad     0.0000    0.0000    0.0000        40
+   surprised     0.4186    0.4500    0.4337        40
+
+    accuracy                         0.3600       300
+   macro avg     0.3353    0.4000    0.3349       300
+weighted avg     0.3420    0.3600    0.3318       300
